@@ -1,0 +1,29 @@
+{
+  "name": "cytorus-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Check this out to kick start with a Cytorus project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cytorus run",
+    "run-parallel": "npx cytorus run -p true",
+    "run-on": "npx cytorus run --on ",
+    "run-from": "npx cytorus run --from "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaturalIntelligence/cytorus-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Amit K Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NaturalIntelligence/cytorus-boilerplate/issues"
+  },
+  "homepage": "https://github.com/NaturalIntelligence/cytorus-boilerplate#readme",
+  "dependencies": {
+    "cypress": "^8.0.0",
+    "cytorus": "^0.2.0-beta.0",
+    "cytorus-reporter": "^1.1.1"
+  }
+}
