@@ -23,7 +23,7 @@
   "homepage": "https://github.com/NaturalIntelligence/cytorus-boilerplate#readme",
   "dependencies": {
     "cypress": "^8.0.0",
-    "cytorus": "^0.2.0-beta.0",
+    "cytorus": "^0.2.0-beta.3",
     "cytorus-reporter": "^1.1.1"
   }
 }

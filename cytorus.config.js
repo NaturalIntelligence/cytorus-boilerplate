@@ -8,6 +8,9 @@ module.exports = {
     runConfig: {
         docker: {
             //env: [ "CYPRESS_RECORD_KEY",  "CYPRESS_VIDEO" ]
+            args : {
+                "--network": "host"
+            },
             "cypress" : "8.0.0"
         },
         // tian: {
