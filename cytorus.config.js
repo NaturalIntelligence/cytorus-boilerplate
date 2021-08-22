@@ -8,8 +8,9 @@ module.exports = {
     runConfig: {
         docker: {
             //env: [ "CYPRESS_RECORD_KEY",  "CYPRESS_VIDEO" ]
+            env: [ "DISPLAY"], //Remember that X11 server is already running on host and `export DISPLAY=:99`
             args : {
-                "--network": "host"
+                "--network": "host" //require to connect localhost or other DNS mapped on host machine
             },
             "cypress" : "8.0.0"
         },
