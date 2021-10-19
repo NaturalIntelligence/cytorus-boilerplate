@@ -1,0 +1,72 @@
+[{
+    "name": "Margherita",
+    "detail": "A hugely popular margherita, with a deliciously tangy single cheese topping",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Double Cheese Margherita",
+    "detail": "The ever-popular Margherita - loaded with extra cheese... oodies of it!",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Farm House",
+    "detail": "A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Peppy Paneer",
+    "detail": "Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful!",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Mexican Green Wave",
+    "detail": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs.",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Deluxe Veggie",
+    "detail": "For a vegetarian looking for a BIG treat that goes easy on the spices, this one's got it all.. The onions, the capsicum, those delectable mushrooms - with paneer and golden corn to top it all.",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Veg Extravaganza",
+    "detail": "A pizza that decidedly staggers under an overload of golden corn, exotic black olives, crunchy onions, crisp capsicum, succulent mushrooms, juicyfresh tomatoes and jalapeno - with extra cheese to go all around.",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "CHEESE N CORN",
+    "detail": "Cheese I Golden Corn",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "PANEER MAKHANI",
+    "detail": "Paneer and Capsicum on Makhani Sauce",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "VEGGIE PARADISE",
+    "detail": "Goldern Corn, Black Olives, Capsicum & Red Paprika",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "FRESH VEGGIE",
+    "detail": "Onion I Capsicum",
+    "image": "",
+    "toppings": []
+  },
+  {
+    "name": "Indi Tandoori Paneer",
+    "detail": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum I red paprika I mint mayo",
+    "image": "",
+    "toppings": []
+  }]

@@ -1,4 +1,5 @@
 {
+    "projectId": "cytorus-tests",
     "ignoreTestFiles": ["*.js","*.ts", "*.d_ts", "*.json", "*.xml"],
     "chromeWebSecurity": false,
     "video": false
